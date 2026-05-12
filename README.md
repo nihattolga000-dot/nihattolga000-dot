@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nihtao! 👋</h1>
+<h1 align="center">Hi, I'm Nihat! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -18,12 +18,12 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nihattolga000-dot&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
+### 📜 Certifications & Achievements
+
+* 🏆 **Ahi AI Günleri:** Certificate of Appreciation
+* 🚀 **Advanced Entrepreneurship Certificate** *(İleri Girişimcilik Sertifikası)*
+* 💡 **Traditional Entrepreneurship Certificate** *(Geleneksel Girişimcilik Sertifikası)*
+* 🎨 **Yeni Nesil Arayüz Geliştirme:** Design to Code Architecture Workshop
 
 ---
 
