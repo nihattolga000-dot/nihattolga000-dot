@@ -10,20 +10,27 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** 2nd-year Web Design and Coding student at Ahi Evran University.
-- 📍 **Location:** Based in Kayseri, Turkey.
-- 🚀 **Focus:** Crafting high-performance web applications using **React, Next.js, and Tailwind CSS**.
-- 🛠️ **Current Projects:** Working on **Üçüzler Bina Yönetimi**, **Black Veil**, and a custom **CMS**.
-- ✉️ **Contact:** [E-posta Adresin]
+> **2nd-year Web Design and Coding student at Ahi Evran University.**
+> 
+> Passionate about bridging the gap between pixel-perfect design and robust frontend engineering. Focusing on building scalable applications using **React, Next.js, and Tailwind CSS**. Currently working on **Üçüzler Bina Yönetimi**, **Black Veil**, and a custom **CMS**.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/📍_Location-Kayseri,_Turkey-1A1B26?style=for-the-badge" alt="Location" />
+  <a href="mailto:epostaadresiniburayayaz@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ### 📜 Certifications & Achievements
 
-* 🏆 **Ahi AI Günleri:** Certificate of Appreciation
-* 🚀 **Advanced Entrepreneurship Certificate** *(İleri Girişimcilik Sertifikası)*
-* 💡 **Traditional Entrepreneurship Certificate** *(Geleneksel Girişimcilik Sertifikası)*
-* 🎨 **Yeni Nesil Arayüz Geliştirme:** Design to Code Architecture Workshop
+| 🏆 Credential / Event | 📌 Details & Category |
+| :--- | :--- |
+| 🌟 **Ahi AI Günceleri** | Certificate of Appreciation |
+| 🚀 **Advanced Entrepreneurship** | İleri Girişimcilik Sertifikası |
+| 💡 **Traditional Entrepreneurship** | Geleneksel Girişimcilik Sertifikası |
+| 🎨 **Yeni Nesil Arayüz Geliştirme** | Design to Code Architecture Workshop |
 
 ---
 
