@@ -1,68 +1,48 @@
-<h1 align="center">Hi, I'm Nihat! 👋</h1>
+<h1 align="center">Hi, I'm Nihtao! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+UI%2FUX+Designer;Building+Scalable+Applications;Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+UI%2FUX+Designer;React+%26+Next.js+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-📍 Kayseri, Turkey
-
-Welcome to my GitHub profile. I am a Web Design and Coding student passionate about bridging the gap between pixel-perfect design and robust frontend engineering. I focus on building scalable applications, creating intuitive user interfaces, and writing clean, maintainable code.
-
-📫 **Contact me:** [E-posta Adresin] | [LinkedIn Profil Linkin]
-
----
-
-## 🛠️ Technical Arsenal
-
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### Backend & Database
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### UI/UX Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black)
-
-### AI & Creative Tools
-![Google Stitch](https://img.shields.io/badge/-Google_Stitch-EA4335?style=flat-square&logo=google&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/-Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+- 🎓 **Education:** 2nd-year Web Design and Coding student at Ahi Evran University.
+- 📍 **Location:** Based in Kayseri, Turkey.
+- 🚀 **Focus:** Crafting high-performance web applications using **React, Next.js, and Tailwind CSS**.
+- 🛠️ **Current Projects:** Working on **Üçüzler Bina Yönetimi**, **Black Veil**, and a custom **CMS**.
+- ✉️ **Contact:** [E-posta Adresin]
 
 ---
 
-## 🚀 Featured Projects
-
-Here are some of the key projects I have developed:
-
-* **[Üçüzler Bina Yönetimi](www.ucuzlerbinayonetimi.com):** A comprehensive building management platform built with modern web technologies, focusing on a seamless user experience and scalable architecture.
-* **[Black Veil](https://github.com/nihtao/oyun_tasarimi):** A cyberpunk-themed, interactive game UI developed using Vite, React, and Tailwind CSS.
-* **[Content Management System](https://github.com/nihattolga000-dot/guncellenen_kkgiys):** A custom-built, self-evolving CMS architecture utilizing Django Ninja and PostgreSQL for robust backend operations.
-
----
-
-
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nihattolga000-dot&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-## 📊 Analytics & Contributions
+### 🛠️ Technical Arsenal
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nihattolga000-dot&theme=tokyonight&hide_border=true)](https://github.com/nihattolga000-dot)
+| Frontend | Backend & DB | Design & Tools |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) | ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black) |
+| ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Stitch](https://img.shields.io/badge/-Stitch-EA4335?style=flat-square&logo=google&logoColor=white) |
+| ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) |
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihattolga000-dot&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/nihattolga000-dot)
+---
 
-<br>
+### 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihattolga000-dot&theme=tokyonight" alt="Profile Details" width="100%" />
+</p>
 
 <p align="center">
   <picture>
