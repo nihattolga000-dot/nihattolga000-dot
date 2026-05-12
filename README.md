@@ -54,13 +54,15 @@ Here are some of the key projects I have developed:
 
 
 
+---
+
 ## 📊 Analytics & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihattolga000-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihattolga000-dot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nihattolga000-dot&theme=tokyonight&hide_border=true)](https://github.com/nihattolga000-dot)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihattolga000-dot&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/nihattolga000-dot)
+
+<br>
 
 <p align="center">
   <picture>
