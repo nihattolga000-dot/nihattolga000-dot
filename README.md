@@ -1,5 +1,14 @@
-# Nihat Gözen (Nihtao)
-**Web Developer | UI/UX Designer**
+<h1 align="center">Hi, I'm Nihat! 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+UI%2FUX+Designer;Building+Scalable+Applications;Creative+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 📍 Kayseri, Turkey
 
@@ -37,15 +46,23 @@ Welcome to my GitHub profile. I am a Web Design and Coding student passionate ab
 
 Here are some of the key projects I have developed:
 
-* **[Üçüzler Bina Yönetimi](https://www.ucuzlerbinayonetimi.com):** A comprehensive building management platform built with modern web technologies, focusing on a seamless user experience and scalable architecture.
-* **[Black Veil](https://github.com/nihtao/blackveil-app):** A cyberpunk-themed, interactive game UI developed using Vite, React, and Tailwind CSS.
-* **[Content Management System](Proje_Linkini_Buraya_Yapıştır):** A custom-built, self-evolving CMS architecture utilizing Django Ninja and PostgreSQL for robust backend operations.
+* **[Üçüzler Bina Yönetimi](www.ucuzlerbinayonetimi.com):** A comprehensive building management platform built with modern web technologies, focusing on a seamless user experience and scalable architecture.
+* **[Black Veil](https://github.com/nihtao/oyun_tasarimi):** A cyberpunk-themed, interactive game UI developed using Vite, React, and Tailwind CSS.
+* **[Content Management System](https://github.com/nihattolga000-dot/guncellenen_kkgiys):** A custom-built, self-evolving CMS architecture utilizing Django Ninja and PostgreSQL for robust backend operations.
 
 ---
 
-## 📊 Analytics
+## 📊 Analytics & Contributions
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihattolga000-dot&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=a6a6a6&icon_color=36BCF7" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihattolga000-dot&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=a6a6a6" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihattolga000-dot/nihattolga000-dot/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihattolga000-dot/nihattolga000-dot/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nihattolga000-dot/nihattolga000-dot/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
