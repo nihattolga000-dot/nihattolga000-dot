@@ -52,9 +52,7 @@ Here are some of the key projects I have developed:
 
 ---
 
-## 📊 Analytics & Contributions
 
----
 
 ## 📊 Analytics & Contributions
 
