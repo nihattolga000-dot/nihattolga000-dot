@@ -15,7 +15,7 @@
 > Passionate about bridging the gap between pixel-perfect design and robust frontend engineering. Focusing on building scalable applications using **React, Next.js, and Tailwind CSS**. Currently working on **Üçüzler Bina Yönetimi**, **Black Veil**, and a custom **CMS**.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📍_Location-Kayseri,_Turkey-1A1B26?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/📍_Location-_Turkey-1A1B26?style=for-the-badge" alt="Location" />
   <a href="mailto:epostaadresiniburayayaz@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
