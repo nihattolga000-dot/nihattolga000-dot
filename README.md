@@ -37,7 +37,7 @@ Welcome to my GitHub profile. I am a Web Design and Coding student passionate ab
 
 Here are some of the key projects I have developed:
 
-* **[Üçüzler Bina Yönetimi](https://github.com/nihattolga000-dot/ucuzlerbinayonetimi):** A comprehensive building management platform built with modern web technologies, focusing on a seamless user experience and scalable architecture.
+* **[Üçüzler Bina Yönetimi](https://www.ucuzlerbinayonetimi.com):** A comprehensive building management platform built with modern web technologies, focusing on a seamless user experience and scalable architecture.
 * **[Black Veil](https://github.com/nihtao/blackveil-app):** A cyberpunk-themed, interactive game UI developed using Vite, React, and Tailwind CSS.
 * **[Content Management System](Proje_Linkini_Buraya_Yapıştır):** A custom-built, self-evolving CMS architecture utilizing Django Ninja and PostgreSQL for robust backend operations.
 
