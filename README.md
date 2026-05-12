@@ -55,8 +55,12 @@ Here are some of the key projects I have developed:
 ## 📊 Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihattolga000-dot&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=a6a6a6&icon_color=36BCF7" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihattolga000-dot&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=a6a6a6" alt="Top Languages" width="48%" />
+  <a href="https://github.com/nihattolga000-dot">
+    <img src="https://github-readme-stats.vercel.app/api?username=nihattolga000-dot&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/nihattolga000-dot">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihattolga000-dot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  </a>
 </p>
 
 <p align="center">
